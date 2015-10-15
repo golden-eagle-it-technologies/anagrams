@@ -1,7 +1,6 @@
 #!/bin/python
 # Source came from http://www.dotnetperls.com/anagram-python
 
-
 def build_dict(path):
     # Load in word file and sort each line.
     alpha = {}
@@ -33,7 +32,10 @@ def anagram(alpha, line):
 
 # Load our dictionary and use it.
 alpha = build_dict(r"dictionary.txt")
-results = anagram(alpha, "spot")
 
-print("Anagrams for [spot]")
+word = raw_input("please input your word : ")
+print word
+results = anagram(alpha, word)
+
+print("Anagrams for %s" % word)
 print(results)
