@@ -34,15 +34,18 @@ def anagram(alpha, line):
     return values.split(",")
 
 def home(request):
-   render
+    # Load our dictionary and use it.
+    alpha = build_dict(r"/root/anagrams/apps/anagrams/dictionary.txt")
 
-# Load our dictionary and use it.
-alpha = build_dict(r"dictionary.txt")
+    #word = raw_input("please input your word : ")
+    word = 'NONE'
+    results = 'NONE'
+    if request.GET:
+        word = request.GET['word']
+        print word
+        results = anagram(alpha, word)
 
-word = raw_input("please input your word : ")
-print word
-results = anagram(alpha, word)
-
-print("Anagrams for %s" % word)
-print(results)
-##################################
+        print("Anagrams for %s" % word)
+        print(results)
+    ##################################
+    return render(request, 'anagrams.html', {'anagrams': results, 'word': word, })
