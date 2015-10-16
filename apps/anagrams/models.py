@@ -4,3 +4,6 @@ from django.db import models
 class WordAnagrams(models.Model):
     word = models.CharField(max_length=40)
     tries = models.IntegerField(default=1)
+
+class Suggestions(models.Model):
+    word = models.CharField(max_length=40)

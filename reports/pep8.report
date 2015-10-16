@@ -1,0 +1,996 @@
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/__init__.py:6:5: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/__init__.py:8:5: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/__init__.py:9:5: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/__init__.py:10:5: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/actions.py:23:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/actions.py:36:80: E501 line too long (82 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/actions.py:50:80: E501 line too long (95 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/actions.py:82:80: E501 line too long (90 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/actions.py:83:80: E501 line too long (87 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/actions.py:88:80: E501 line too long (92 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:46:80: E501 line too long (95 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:49:80: E501 line too long (99 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:62:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:64:80: E501 line too long (82 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:72:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:78:80: E501 line too long (88 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:111:80: E501 line too long (91 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:114:80: E501 line too long (89 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:123:80: E501 line too long (85 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:125:80: E501 line too long (81 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:127:80: E501 line too long (92 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:131:80: E501 line too long (82 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:138:80: E501 line too long (104 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:151:80: E501 line too long (90 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:162:80: E501 line too long (94 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:186:80: E501 line too long (90 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:187:80: E501 line too long (91 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:203:80: E501 line too long (89 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:231:80: E501 line too long (97 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:234:80: E501 line too long (94 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:244:80: E501 line too long (99 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:247:80: E501 line too long (96 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:259:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:262:80: E501 line too long (91 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:272:80: E501 line too long (91 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:275:80: E501 line too long (86 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:276:80: E501 line too long (98 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:288:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:294:80: E501 line too long (95 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:313:80: E501 line too long (99 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:324:80: E501 line too long (89 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:327:80: E501 line too long (93 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:345:80: E501 line too long (98 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:348:80: E501 line too long (100 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:349:80: E501 line too long (112 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:368:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:373:80: E501 line too long (95 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:390:80: E501 line too long (85 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:393:80: E501 line too long (112 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:397:80: E501 line too long (83 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:405:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:416:80: E501 line too long (90 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:419:80: E501 line too long (89 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:429:80: E501 line too long (83 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:450:80: E501 line too long (84 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:460:80: E501 line too long (97 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:463:80: E501 line too long (103 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:480:80: E501 line too long (116 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:481:80: E501 line too long (95 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:495:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:532:80: E501 line too long (89 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:535:80: E501 line too long (81 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:574:80: E501 line too long (94 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:577:80: E501 line too long (91 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:600:80: E501 line too long (99 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:601:80: E501 line too long (101 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:611:80: E501 line too long (83 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:624:80: E501 line too long (85 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:627:80: E501 line too long (85 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:628:80: E501 line too long (89 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:629:80: E501 line too long (101 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:646:80: E501 line too long (109 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:649:80: E501 line too long (109 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:657:80: E501 line too long (99 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:670:80: E501 line too long (93 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:673:80: E501 line too long (89 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:679:80: E501 line too long (82 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:697:80: E501 line too long (93 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:709:80: E501 line too long (90 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:723:80: E501 line too long (110 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:736:80: E501 line too long (84 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:745:80: E501 line too long (90 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:753:80: E501 line too long (94 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:762:80: E501 line too long (95 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:765:80: E501 line too long (93 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:774:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:778:80: E501 line too long (84 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:781:80: E501 line too long (101 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:788:80: E501 line too long (81 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:791:80: E501 line too long (117 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:797:80: E501 line too long (115 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:798:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:799:80: E501 line too long (110 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:803:80: E501 line too long (96 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:804:80: E501 line too long (86 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:815:80: E501 line too long (104 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:830:80: E501 line too long (95 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:845:80: E501 line too long (84 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:847:80: E501 line too long (83 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:848:80: E501 line too long (91 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:857:80: E501 line too long (90 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:869:80: E501 line too long (86 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:884:80: E501 line too long (83 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:886:80: E501 line too long (93 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:900:80: E501 line too long (81 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:908:80: E501 line too long (82 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:918:80: E501 line too long (84 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:928:80: E501 line too long (84 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:936:80: E501 line too long (81 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/checks.py:967:80: E501 line too long (89 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/filters.py:40:80: E501 line too long (96 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/filters.py:46:80: E501 line too long (93 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/filters.py:52:80: E501 line too long (94 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/filters.py:59:80: E501 line too long (106 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/filters.py:161:17: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/filters.py:204:17: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/filters.py:216:80: E501 line too long (91 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/filters.py:217:80: E501 line too long (109 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/filters.py:238:13: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/filters.py:265:5: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/filters.py:327:80: E501 line too long (81 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/filters.py:395:17: W503 line break before binary operator
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/filters.py:395:17: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/filters.py:397:17: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/filters.py:427:80: E501 line too long (112 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/filters.py:428:80: E501 line too long (88 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/forms.py:13:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/helpers.py:30:9: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/helpers.py:36:80: E501 line too long (101 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/helpers.py:65:80: E501 line too long (82 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/helpers.py:66:7: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/helpers.py:86:80: E501 line too long (97 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/helpers.py:97:80: E501 line too long (81 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/helpers.py:108:21: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/helpers.py:115:13: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/helpers.py:123:80: E501 line too long (83 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/helpers.py:139:80: E501 line too long (82 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/helpers.py:189:80: E501 line too long (91 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/helpers.py:218:13: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/helpers.py:231:80: E501 line too long (91 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/helpers.py:234:17: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/helpers.py:235:17: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/helpers.py:238:17: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/helpers.py:239:17: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/helpers.py:241:13: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/helpers.py:242:13: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/helpers.py:251:80: E501 line too long (85 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/helpers.py:256:80: E501 line too long (82 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/helpers.py:274:7: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/helpers.py:280:80: E501 line too long (83 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/helpers.py:281:13: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/helpers.py:286:80: E501 line too long (81 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/helpers.py:287:80: E501 line too long (83 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/helpers.py:288:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/helpers.py:292:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/helpers.py:293:80: E501 line too long (82 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/helpers.py:301:17: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/helpers.py:304:80: E501 line too long (88 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/helpers.py:305:80: E501 line too long (101 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/helpers.py:307:80: E501 line too long (88 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/helpers.py:344:17: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/models.py:19:80: E501 line too long (107 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/models.py:50:80: E501 line too long (81 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/models.py:57:80: E501 line too long (83 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/models.py:79:80: E501 line too long (100 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:173:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:178:80: E501 line too long (85 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:182:80: E501 line too long (86 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:184:80: E501 line too long (86 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:191:80: E501 line too long (83 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:195:80: E501 line too long (87 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:196:80: E501 line too long (93 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:197:80: E501 line too long (93 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:200:80: E501 line too long (85 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:209:80: E501 line too long (87 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:243:80: E501 line too long (85 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:253:37: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:279:37: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:281:80: E501 line too long (90 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:293:80: E501 line too long (119 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:294:80: E501 line too long (91 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:296:80: E501 line too long (91 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:343:80: E501 line too long (82 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:360:80: E501 line too long (86 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:443:80: E501 line too long (91 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:488:80: E501 line too long (88 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:622:80: E501 line too long (83 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:624:80: E501 line too long (90 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:625:80: E501 line too long (87 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:626:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:665:80: E501 line too long (84 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:681:80: E501 line too long (92 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:692:80: E501 line too long (87 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:696:80: E501 line too long (89 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:702:80: E501 line too long (89 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:720:80: E501 line too long (91 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:732:80: E501 line too long (87 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:736:17: W503 line break before binary operator
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:747:80: E501 line too long (87 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:751:13: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:752:13: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:782:80: E501 line too long (82 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:784:80: E501 line too long (81 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:785:80: E501 line too long (82 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:789:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:796:80: E501 line too long (97 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:797:80: E501 line too long (82 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:850:80: E501 line too long (88 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:851:80: E501 line too long (97 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:868:80: E501 line too long (84 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:897:80: E501 line too long (81 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:945:80: E501 line too long (90 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1006:80: E501 line too long (89 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1022:80: E501 line too long (96 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1028:80: E501 line too long (97 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1029:80: E501 line too long (81 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1031:80: E501 line too long (90 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1032:80: E501 line too long (93 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1033:80: E501 line too long (99 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1034:80: E501 line too long (83 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1037:80: E501 line too long (99 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1038:80: E501 line too long (83 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1042:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1062:25: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1065:17: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1104:80: E501 line too long (99 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1108:80: E501 line too long (106 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1116:80: E501 line too long (102 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1148:80: E501 line too long (82 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1160:80: E501 line too long (85 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1166:80: E501 line too long (109 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1180:80: E501 line too long (116 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1183:80: E501 line too long (118 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1187:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1213:80: E501 line too long (82 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1215:80: E501 line too long (111 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1218:80: E501 line too long (118 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1222:80: E501 line too long (109 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1228:80: E501 line too long (118 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1232:80: E501 line too long (118 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1237:80: E501 line too long (118 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1241:80: E501 line too long (82 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1256:80: E501 line too long (110 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1274:80: E501 line too long (110 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1323:80: E501 line too long (85 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1361:13: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1372:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1391:80: E501 line too long (90 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1390:13: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1404:17: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1426:80: E501 line too long (88 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1428:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1430:80: E501 line too long (94 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1448:80: E501 line too long (95 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1449:80: E501 line too long (85 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1452:80: E501 line too long (84 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1465:80: E501 line too long (99 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1473:80: E501 line too long (91 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1480:80: E501 line too long (103 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1483:80: E501 line too long (93 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1493:80: E501 line too long (92 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1498:80: E501 line too long (91 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1498:13: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1513:80: E501 line too long (109 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1519:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1546:17: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1547:17: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1548:17: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1574:80: E501 line too long (91 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1590:80: E501 line too long (91 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1605:80: E501 line too long (96 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1612:80: E501 line too long (82 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1613:80: E501 line too long (87 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1622:80: E501 line too long (83 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1623:80: E501 line too long (84 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1645:80: E501 line too long (83 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1650:13: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1655:80: E501 line too long (85 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1656:80: E501 line too long (85 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1687:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1689:80: E501 line too long (94 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1699:80: E501 line too long (81 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1704:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1706:80: E501 line too long (86 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1754:80: E501 line too long (91 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1771:13: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1796:80: E501 line too long (82 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1873:80: E501 line too long (82 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1883:80: E501 line too long (92 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1890:80: E501 line too long (81 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1897:80: E501 line too long (87 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1924:80: E501 line too long (94 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1930:80: E501 line too long (84 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1932:80: E501 line too long (83 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1933:80: E501 line too long (85 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1934:80: E501 line too long (84 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1936:80: E501 line too long (92 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1945:80: E501 line too long (89 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1954:80: E501 line too long (84 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py:1990:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/sites.py:32:80: E501 line too long (87 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/sites.py:33:80: E501 line too long (87 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/sites.py:34:80: E501 line too long (87 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/sites.py:35:80: E501 line too long (82 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/sites.py:87:23: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/sites.py:90:80: E501 line too long (94 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/sites.py:98:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/sites.py:102:80: E501 line too long (91 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/sites.py:120:80: E501 line too long (86 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/sites.py:139:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/sites.py:166:80: E501 line too long (84 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/sites.py:223:80: E501 line too long (82 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/sites.py:262:80: E501 line too long (107 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/sites.py:263:80: E501 line too long (92 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/sites.py:265:80: E501 line too long (89 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/sites.py:266:80: E501 line too long (101 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/sites.py:275:80: E501 line too long (109 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/sites.py:316:80: E501 line too long (87 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/sites.py:329:80: E501 line too long (87 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/sites.py:345:80: E501 line too long (87 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/sites.py:346:80: E501 line too long (92 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/sites.py:358:80: E501 line too long (87 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/sites.py:380:13: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/sites.py:421:80: E501 line too long (117 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/sites.py:426:80: E501 line too long (108 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/sites.py:433:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/sites.py:486:80: E501 line too long (117 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/sites.py:491:80: E501 line too long (108 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/sites.py:512:13: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/tests.py:68:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/tests.py:80:80: E501 line too long (81 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/tests.py:133:80: E501 line too long (87 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/tests.py:137:80: E501 line too long (89 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/tests.py:144:80: E501 line too long (87 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/utils.py:27:80: E501 line too long (91 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/utils.py:39:80: E501 line too long (88 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/utils.py:182:80: E501 line too long (94 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/utils.py:334:80: E501 line too long (89 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/utils.py:378:80: E501 line too long (94 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/utils.py:447:80: E501 line too long (81 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:27:80: E501 line too long (84 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:47:80: E501 line too long (88 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:48:80: E501 line too long (93 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:50:80: E501 line too long (98 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:52:25: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:53:25: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:57:80: E501 line too long (95 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:62:80: E501 line too long (82 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:63:80: E501 line too long (83 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:64:29: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:65:29: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:68:80: E501 line too long (91 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:74:80: E501 line too long (107 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:76:80: E501 line too long (102 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:79:80: E501 line too long (89 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:87:29: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:91:29: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:92:29: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:93:80: E501 line too long (108 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:96:80: E501 line too long (105 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:103:80: E501 line too long (103 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:109:21: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:118:80: E501 line too long (82 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:119:25: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:128:80: E501 line too long (84 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:129:25: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:132:80: E501 line too long (87 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:140:29: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:141:29: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:144:29: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:145:29: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:148:80: E501 line too long (94 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:155:25: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:156:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:157:29: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:158:29: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:159:29: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:162:80: E501 line too long (92 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:166:80: E501 line too long (89 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:167:80: E501 line too long (114 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:177:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:178:80: E501 line too long (81 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:177:29: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:178:29: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:179:29: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:202:80: E501 line too long (86 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:203:80: E501 line too long (82 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:204:80: E501 line too long (103 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:224:80: E501 line too long (83 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:225:29: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:227:80: E501 line too long (81 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:228:29: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:230:80: E501 line too long (81 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:231:29: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:237:80: E501 line too long (90 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:242:80: E501 line too long (112 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:241:25: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:242:25: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:245:80: E501 line too long (81 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:256:80: E501 line too long (83 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:257:80: E501 line too long (82 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:258:80: E501 line too long (103 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:261:80: E501 line too long (90 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:262:80: E501 line too long (87 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:265:80: E501 line too long (87 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:271:80: E501 line too long (94 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:279:80: E501 line too long (84 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:279:29: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:280:29: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:285:80: E501 line too long (91 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:296:80: E501 line too long (81 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:297:33: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:298:33: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:301:80: E501 line too long (81 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:302:33: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:303:33: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:304:33: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:310:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:311:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:312:80: E501 line too long (82 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:311:33: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:312:33: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:320:80: E501 line too long (88 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:321:33: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:322:33: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:330:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:353:80: E501 line too long (84 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:355:80: E501 line too long (97 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:354:25: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:355:25: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:357:80: E501 line too long (82 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:358:25: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:359:25: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:362:80: E501 line too long (94 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:363:29: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:364:29: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:365:80: E501 line too long (95 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:366:80: E501 line too long (85 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:367:80: E501 line too long (84 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:367:29: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:368:29: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:369:29: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:371:80: E501 line too long (84 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:372:25: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:373:25: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:386:25: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:387:25: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:397:25: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:409:80: E501 line too long (85 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:411:21: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:415:80: E501 line too long (90 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:417:17: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:422:80: E501 line too long (94 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:427:80: E501 line too long (91 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:434:80: E501 line too long (101 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:435:80: E501 line too long (86 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:435:17: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/validation.py:449:80: E501 line too long (81 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/widgets.py:48:80: E501 line too long (90 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/widgets.py:49:80: E501 line too long (94 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/widgets.py:52:80: E501 line too long (82 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/widgets.py:53:80: E501 line too long (100 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/widgets.py:53:13: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/widgets.py:114:29: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/widgets.py:170:80: E501 line too long (85 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/widgets.py:174:80: E501 line too long (105 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/widgets.py:177:80: E501 line too long (100 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/widgets.py:178:17: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/widgets.py:179:80: E501 line too long (88 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/widgets.py:199:80: E501 line too long (81 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/widgets.py:200:80: E501 line too long (97 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/widgets.py:207:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/widgets.py:256:80: E501 line too long (85 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/widgets.py:258:80: E501 line too long (85 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/widgets.py:259:80: E501 line too long (81 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/widgets.py:298:80: E501 line too long (88 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/widgets.py:310:80: E501 line too long (88 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/widgets.py:392:80: E501 line too long (86 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/migrations/0001_initial.py:20:80: E501 line too long (114 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/migrations/0001_initial.py:21:80: E501 line too long (97 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/migrations/0001_initial.py:22:80: E501 line too long (97 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/migrations/0001_initial.py:23:80: E501 line too long (94 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/migrations/0001_initial.py:24:80: E501 line too long (94 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/migrations/0001_initial.py:25:80: E501 line too long (96 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/migrations/0001_initial.py:26:80: E501 line too long (121 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/views/decorators.py:5:80: E501 line too long (103 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/views/main.py:42:13: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/views/main.py:43:13: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/views/main.py:68:80: E501 line too long (94 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/views/main.py:110:80: E501 line too long (85 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/views/main.py:118:25: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/views/main.py:122:80: E501 line too long (83 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/views/main.py:128:80: E501 line too long (92 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/views/main.py:131:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/views/main.py:132:80: E501 line too long (81 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/views/main.py:133:25: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/views/main.py:152:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/views/main.py:154:80: E501 line too long (99 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/views/main.py:175:80: E501 line too long (94 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/views/main.py:205:80: E501 line too long (82 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/views/main.py:206:80: E501 line too long (92 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/views/main.py:254:25: W503 line break before binary operator
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/views/main.py:293:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/templatetags/admin_list.py:42:80: E501 line too long (96 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/templatetags/admin_list.py:53:80: E501 line too long (84 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/templatetags/admin_list.py:76:80: E501 line too long (83 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/templatetags/admin_list.py:78:80: E501 line too long (92 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/templatetags/admin_list.py:86:80: E501 line too long (82 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/templatetags/admin_list.py:111:80: E501 line too long (81 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/templatetags/admin_list.py:121:80: E501 line too long (82 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/templatetags/admin_list.py:144:9: E731 do not assign a lambda expression, use a def
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/templatetags/admin_list.py:169:80: E501 line too long (86 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/templatetags/admin_list.py:170:80: E501 line too long (84 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/templatetags/admin_list.py:171:80: E501 line too long (84 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/templatetags/admin_list.py:172:80: E501 line too long (99 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/templatetags/admin_list.py:226:80: E501 line too long (90 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/templatetags/admin_list.py:231:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/templatetags/admin_list.py:243:80: E501 line too long (110 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/templatetags/admin_list.py:267:80: E501 line too long (86 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/templatetags/admin_list.py:277:80: E501 line too long (82 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/templatetags/admin_list.py:331:80: E501 line too long (96 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/templatetags/admin_list.py:340:9: E731 do not assign a lambda expression, use a def
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/templatetags/admin_list.py:353:80: E501 line too long (85 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/templatetags/admin_list.py:357:80: E501 line too long (87 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/templatetags/admin_list.py:358:80: E501 line too long (84 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/templatetags/admin_list.py:360:80: E501 line too long (94 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/templatetags/admin_list.py:363:80: E501 line too long (93 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/templatetags/admin_list.py:372:80: E501 line too long (107 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/templatetags/admin_list.py:373:80: E501 line too long (83 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/templatetags/admin_list.py:386:80: E501 line too long (86 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/templatetags/admin_list.py:387:80: E501 line too long (86 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/templatetags/admin_list.py:391:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/templatetags/admin_modify.py:6:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/templatetags/admin_modify.py:19:80: E501 line too long (85 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/templatetags/admin_modify.py:44:80: E501 line too long (84 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/templatetags/admin_static.py:14:80: E501 line too long (93 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/templatetags/admin_urls.py:39:80: E501 line too long (89 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/templatetags/admin_urls.py:40:80: E501 line too long (92 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/templatetags/admin_urls.py:41:80: E501 line too long (93 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/templatetags/log.py:16:80: E501 line too long (110 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/templatetags/log.py:34:80: E501 line too long (91 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/admin/templatetags/log.py:60:80: E501 line too long (106 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/__init__.py:48:80: E501 line too long (87 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/__init__.py:70:80: E501 line too long (91 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/__init__.py:76:80: E501 line too long (98 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/__init__.py:86:13: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/__init__.py:152:80: E501 line too long (96 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/__init__.py:155:80: E501 line too long (105 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/__init__.py:176:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/__init__.py:177:80: E501 line too long (95 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/admin.py:83:80: E501 line too long (126 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/admin.py:129:80: E501 line too long (91 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/admin.py:137:80: E501 line too long (83 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/admin.py:171:13: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/admin.py:172:13: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/admin.py:173:13: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/admin.py:186:80: E501 line too long (82 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/apps.py:16:13: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/backends.py:30:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/backends.py:39:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/backends.py:47:80: E501 line too long (82 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/backends.py:48:80: E501 line too long (87 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/backends.py:49:80: E501 line too long (95 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/backends.py:67:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/checks.py:30:80: E501 line too long (87 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/checks.py:43:80: E501 line too long (93 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/checks.py:54:80: E501 line too long (89 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/checks.py:57:80: E501 line too long (82 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/decorators.py:11:80: E501 line too long (89 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/decorators.py:39:80: E501 line too long (91 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/forms.py:30:80: E501 line too long (85 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/forms.py:41:80: E501 line too long (99 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/forms.py:72:9: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/forms.py:74:9: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/forms.py:75:9: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/forms.py:101:9: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/forms.py:147:80: E501 line too long (81 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/forms.py:149:80: E501 line too long (86 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/forms.py:199:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/forms.py:208:80: E501 line too long (85 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/forms.py:210:80: E501 line too long (83 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/hashers.py:22:80: E501 line too long (100 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/hashers.py:70:80: E501 line too long (92 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/hashers.py:196:80: E501 line too long (100 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/hashers.py:205:80: E501 line too long (101 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/hashers.py:214:80: E501 line too long (106 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/hashers.py:296:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/hashers.py:299:80: E501 line too long (85 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/hashers.py:301:80: E501 line too long (84 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/hashers.py:313:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/hashers.py:316:80: E501 line too long (85 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/hashers.py:318:80: E501 line too long (84 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/hashers.py:504:80: E501 line too long (82 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/middleware.py:79:80: E501 line too long (85 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/middleware.py:114:80: E501 line too long (92 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/models.py:36:80: E501 line too long (102 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/models.py:117:9: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/models.py:251:80: E501 line too long (105 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/models.py:254:80: E501 line too long (107 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/models.py:260:80: E501 line too long (86 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/models.py:275:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/models.py:290:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/models.py:309:9: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/models.py:312:9: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/models.py:317:9: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/models.py:391:80: E501 line too long (87 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/models.py:392:80: E501 line too long (81 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/models.py:386:9: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/models.py:401:9: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/models.py:404:9: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/models.py:474:80: E501 line too long (98 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/models.py:477:80: E501 line too long (98 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/models.py:480:80: E501 line too long (98 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/models.py:483:80: E501 line too long (98 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/tokens.py:19:80: E501 line too long (83 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/tokens.py:37:80: E501 line too long (87 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/tokens.py:41:80: E501 line too long (87 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/tokens.py:60:80: E501 line too long (112 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/tokens.py:63:17: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/urls.py:2:80: E501 line too long (81 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/urls.py:13:80: E501 line too long (93 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/urls.py:15:80: E501 line too long (90 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/urls.py:16:80: E501 line too long (95 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/urls.py:18:80: E501 line too long (89 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/views.py:113:80: E501 line too long (85 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/views.py:120:80: E501 line too long (91 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/views.py:149:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/views.py:150:80: E501 line too long (83 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/views.py:218:80: E501 line too long (84 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/views.py:269:80: E501 line too long (86 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/views.py:323:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/migrations/0001_initial.py:20:80: E501 line too long (114 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/migrations/0001_initial.py:22:80: E501 line too long (98 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/migrations/0001_initial.py:23:80: E501 line too long (88 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/migrations/0001_initial.py:26:80: E501 line too long (91 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/migrations/0001_initial.py:38:80: E501 line too long (114 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/migrations/0001_initial.py:39:80: E501 line too long (92 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/migrations/0001_initial.py:40:80: E501 line too long (118 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/migrations/0001_initial.py:53:80: E501 line too long (114 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/migrations/0001_initial.py:54:80: E501 line too long (88 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/migrations/0001_initial.py:55:80: E501 line too long (102 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/migrations/0001_initial.py:56:80: E501 line too long (196 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/migrations/0001_initial.py:57:80: E501 line too long (277 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/migrations/0001_initial.py:58:80: E501 line too long (103 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/migrations/0001_initial.py:59:80: E501 line too long (101 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/migrations/0001_initial.py:60:80: E501 line too long (102 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/migrations/0001_initial.py:61:80: E501 line too long (165 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/migrations/0001_initial.py:62:80: E501 line too long (203 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/migrations/0001_initial.py:63:80: E501 line too long (104 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/migrations/0001_initial.py:64:80: E501 line too long (266 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/migrations/0001_initial.py:65:80: E501 line too long (229 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/migrations/0003_alter_user_email_max_length.py:17:80: E501 line too long (94 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/migrations/0004_alter_user_username_opts.py:19:80: E501 line too long (420 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/migrations/0005_alter_user_last_login_null.py:17:80: E501 line too long (89 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/tests/custom_user.py:29:80: E501 line too long (83 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/tests/custom_user.py:36:80: E501 line too long (88 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/tests/custom_user.py:92:80: E501 line too long (82 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/tests/utils.py:10:80: E501 line too long (97 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/management/__init__.py:36:13: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/management/__init__.py:50:80: E501 line too long (81 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/management/__init__.py:54:80: E501 line too long (81 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/management/__init__.py:60:80: E501 line too long (100 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/management/__init__.py:104:80: E501 line too long (90 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/management/__init__.py:163:17: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/management/__init__.py:170:80: E501 line too long (82 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/management/commands/changepassword.py:24:80: E501 line too long (92 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/management/commands/changepassword.py:24:13: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/management/commands/changepassword.py:26:13: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/management/commands/changepassword.py:27:13: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/management/commands/changepassword.py:38:80: E501 line too long (81 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/management/commands/changepassword.py:53:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/management/commands/changepassword.py:57:80: E501 line too long (103 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/management/commands/createsuperuser.py:29:80: E501 line too long (91 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/management/commands/createsuperuser.py:33:13: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/management/commands/createsuperuser.py:34:13: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/management/commands/createsuperuser.py:35:80: E501 line too long (96 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/management/commands/createsuperuser.py:38:80: E501 line too long (85 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/management/commands/createsuperuser.py:39:80: E501 line too long (83 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/management/commands/createsuperuser.py:36:13: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/management/commands/createsuperuser.py:42:17: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/management/commands/createsuperuser.py:43:17: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/management/commands/createsuperuser.py:46:17: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/management/commands/createsuperuser.py:65:29: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/management/commands/createsuperuser.py:71:80: E501 line too long (86 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/management/commands/createsuperuser.py:73:80: E501 line too long (92 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/management/commands/createsuperuser.py:92:80: E501 line too long (84 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/management/commands/createsuperuser.py:101:80: E501 line too long (100 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/management/commands/createsuperuser.py:105:80: E501 line too long (105 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/management/commands/createsuperuser.py:110:33: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/management/commands/createsuperuser.py:117:80: E501 line too long (85 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/management/commands/createsuperuser.py:118:80: E501 line too long (118 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/management/commands/createsuperuser.py:118:29: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/management/commands/createsuperuser.py:119:80: E501 line too long (83 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/management/commands/createsuperuser.py:125:80: E501 line too long (84 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/management/commands/createsuperuser.py:127:80: E501 line too long (84 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/management/commands/createsuperuser.py:131:80: E501 line too long (83 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/auth/management/commands/createsuperuser.py:149:80: E501 line too long (94 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/admin.py:23:80: E501 line too long (95 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/admin.py:48:80: E501 line too long (90 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/admin.py:49:80: E501 line too long (96 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/admin.py:62:80: E501 line too long (93 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/admin.py:63:80: E501 line too long (99 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/admin.py:71:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/admin.py:74:80: E501 line too long (84 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/admin.py:79:80: E501 line too long (114 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/admin.py:80:80: E501 line too long (109 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/admin.py:106:80: E501 line too long (92 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/admin.py:111:80: E501 line too long (81 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/admin.py:116:80: E501 line too long (87 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/admin.py:128:80: E501 line too long (89 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/checks.py:13:9: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/checks.py:14:9: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/checks.py:15:9: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/fields.py:37:80: E501 line too long (95 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/fields.py:88:80: E501 line too long (110 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/fields.py:106:80: E501 line too long (103 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/fields.py:123:80: E501 line too long (85 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/fields.py:132:80: E501 line too long (88 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/fields.py:137:80: E501 line too long (85 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/fields.py:195:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/fields.py:203:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/fields.py:204:80: E501 line too long (83 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/fields.py:234:80: E501 line too long (94 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/fields.py:248:80: E501 line too long (87 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/fields.py:276:80: E501 line too long (87 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/fields.py:312:80: E501 line too long (81 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/fields.py:313:80: E501 line too long (90 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/fields.py:326:80: E501 line too long (94 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/fields.py:331:80: E501 line too long (83 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/fields.py:336:80: E501 line too long (84 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/fields.py:351:80: E501 line too long (102 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/fields.py:364:80: E501 line too long (92 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/fields.py:370:80: E501 line too long (87 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/fields.py:380:80: E501 line too long (105 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/fields.py:410:80: E501 line too long (88 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/fields.py:448:80: E501 line too long (83 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/fields.py:491:80: E501 line too long (88 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/fields.py:493:80: E501 line too long (87 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/fields.py:494:80: E501 line too long (116 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/fields.py:498:80: E501 line too long (82 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/fields.py:505:80: E501 line too long (97 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/fields.py:512:80: E501 line too long (99 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/fields.py:522:80: E501 line too long (96 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/fields.py:523:80: E501 line too long (81 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/fields.py:557:80: E501 line too long (86 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/fields.py:564:80: E501 line too long (93 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/fields.py:571:80: E501 line too long (96 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/fields.py:578:80: E501 line too long (101 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/fields.py:579:80: E501 line too long (100 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/fields.py:580:80: E501 line too long (97 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/forms.py:43:13: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/forms.py:48:13: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/forms.py:50:13: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/forms.py:56:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/forms.py:71:80: E501 line too long (85 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/forms.py:72:80: E501 line too long (85 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/forms.py:82:80: E501 line too long (91 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/forms.py:83:80: E501 line too long (83 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/generic.py:8:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/generic.py:9:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/generic.py:10:80: E501 line too long (90 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/management.py:7:80: E501 line too long (101 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/management.py:80:80: E501 line too long (93 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/models.py:43:80: E501 line too long (100 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/models.py:67:80: E501 line too long (83 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/models.py:78:80: E501 line too long (82 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/models.py:129:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/models.py:151:80: E501 line too long (97 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/models.py:152:80: E501 line too long (105 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/models.py:194:80: E501 line too long (83 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/models.py:200:80: E501 line too long (86 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/views.py:19:80: E501 line too long (91 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/views.py:23:80: E501 line too long (88 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/views.py:29:80: E501 line too long (92 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/migrations/0001_initial.py:17:80: E501 line too long (114 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/migrations/0001_initial.py:20:80: E501 line too long (100 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/migrations/0001_initial.py:30:80: E501 line too long (85 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/contenttypes/migrations/0002_remove_content_type_name.py:26:80: E501 line too long (93 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/sessions/middleware.py:32:80: E501 line too long (81 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/sessions/middleware.py:52:80: E501 line too long (87 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/sessions/middleware.py:55:80: E501 line too long (82 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/sessions/middleware.py:51:33: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/sessions/middleware.py:52:33: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/sessions/middleware.py:53:33: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/sessions/middleware.py:54:33: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/sessions/middleware.py:55:33: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/sessions/models.py:13:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/sessions/models.py:62:1: E402 module level import not at top of file
+../../usr/local/lib/python2.7/dist-packages/django/contrib/sessions/migrations/0001_initial.py:17:80: E501 line too long (128 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/sessions/migrations/0001_initial.py:18:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/sessions/migrations/0001_initial.py:19:80: E501 line too long (97 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/sessions/backends/base.py:87:80: E501 line too long (82 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/sessions/backends/base.py:90:80: E501 line too long (82 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/sessions/backends/base.py:107:25: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/sessions/backends/base.py:295:80: E501 line too long (94 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/sessions/backends/base.py:303:80: E501 line too long (93 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/sessions/backends/base.py:311:80: E501 line too long (91 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/sessions/backends/base.py:318:80: E501 line too long (93 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/sessions/backends/base.py:324:80: E501 line too long (91 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/sessions/backends/base.py:335:80: E501 line too long (83 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/sessions/backends/cached_db.py:48:21: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/sessions/backends/cached_db.py:52:29: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/sessions/backends/cached_db.py:85:1: E402 module level import not at top of file
+../../usr/local/lib/python2.7/dist-packages/django/contrib/sessions/backends/db.py:27:25: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/sessions/backends/db.py:85:1: E402 module level import not at top of file
+../../usr/local/lib/python2.7/dist-packages/django/contrib/sessions/backends/file.py:39:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/sessions/backends/file.py:40:80: E501 line too long (82 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/sessions/backends/file.py:87:33: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/sessions/backends/file.py:154:17: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/sessions/backends/file.py:158:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/sessions/backends/signed_cookies.py:16:17: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/sessions/backends/signed_cookies.py:17:17: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/sessions/backends/signed_cookies.py:18:17: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/sessions/backends/signed_cookies.py:19:17: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/sessions/backends/signed_cookies.py:75:13: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/sessions/backends/signed_cookies.py:76:13: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/messages/api.py:22:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/messages/api.py:28:21: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/messages/storage/base.py:109:80: E501 line too long (91 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/messages/storage/base.py:120:80: E501 line too long (93 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/messages/storage/cookie.py:86:17: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/messages/storage/cookie.py:87:17: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/messages/storage/cookie.py:88:17: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/messages/storage/cookie.py:91:17: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/messages/storage/cookie.py:112:80: E501 line too long (86 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/messages/storage/session.py:29:80: E501 line too long (90 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/messages/storage/session.py:36:80: E501 line too long (86 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/finders.py:34:80: E501 line too long (90 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/finders.py:42:80: E501 line too long (90 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/finders.py:64:80: E501 line too long (103 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/handlers.py:64:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/storage.py:74:80: E501 line too long (85 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/storage.py:195:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/storage.py:204:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/storage.py:215:9: E731 do not assign a lambda expression, use a def
+../../usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/storage.py:219:9: E731 do not assign a lambda expression, use a def
+../../usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/storage.py:240:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/storage.py:326:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/management/commands/collectstatic.py:40:13: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/management/commands/collectstatic.py:41:13: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/management/commands/collectstatic.py:43:13: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/management/commands/collectstatic.py:44:13: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/management/commands/collectstatic.py:46:13: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/management/commands/collectstatic.py:47:13: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/management/commands/collectstatic.py:48:17: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/management/commands/collectstatic.py:50:13: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/management/commands/collectstatic.py:51:13: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/management/commands/collectstatic.py:53:13: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/management/commands/collectstatic.py:54:13: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/management/commands/collectstatic.py:55:18: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/management/commands/collectstatic.py:57:13: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/management/commands/collectstatic.py:58:13: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/management/commands/collectstatic.py:60:13: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/management/commands/collectstatic.py:61:13: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/management/commands/collectstatic.py:62:17: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/management/commands/collectstatic.py:116:80: E501 line too long (85 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/management/commands/collectstatic.py:140:80: E501 line too long (91 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/management/commands/collectstatic.py:178:80: E501 line too long (83 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/management/commands/collectstatic.py:180:80: E501 line too long (91 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/management/commands/collectstatic.py:181:80: E501 line too long (104 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/management/commands/collectstatic.py:241:29: W503 line break before binary operator
+../../usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/management/commands/collectstatic.py:243:34: W503 line break before binary operator
+../../usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/management/commands/collectstatic.py:245:34: W503 line break before binary operator
+../../usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/management/commands/collectstatic.py:286:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/management/commands/findstatic.py:17:13: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/management/commands/findstatic.py:18:13: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/management/commands/findstatic.py:27:35: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/management/commands/runserver.py:8:80: E501 line too long (90 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/management/commands/runserver.py:12:80: E501 line too long (104 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/management/commands/runserver.py:13:80: E501 line too long (87 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/management/commands/runserver.py:13:13: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/management/commands/runserver.py:14:80: E501 line too long (102 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django/contrib/staticfiles/management/commands/runserver.py:15:13: E128 continuation line under-indented for visual indent
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/runner.py:65:80: E501 line too long (85 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/runner.py:70:80: E501 line too long (84 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/runner.py:89:80: E501 line too long (85 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/runner.py:106:80: E501 line too long (85 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/tasks/__init__.py:8:80: E501 line too long (108 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/tasks/__init__.py:16:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/tasks/__init__.py:17:80: E501 line too long (85 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/tasks/__init__.py:24:80: E501 line too long (84 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/tasks/run_csslint.py:30:80: E501 line too long (97 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/tasks/run_csslint.py:33:80: E501 line too long (99 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/tasks/run_csslint.py:35:80: E501 line too long (89 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/tasks/run_csslint.py:47:80: E501 line too long (93 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/tasks/run_flake8.py:45:80: E501 line too long (82 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/tasks/run_flake8.py:54:80: E501 line too long (82 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/tasks/run_flake8.py:60:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/tasks/run_flake8.py:64:80: E501 line too long (93 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/tasks/run_flake8.py:69:80: E501 line too long (98 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/tasks/run_flake8.py:77:80: E501 line too long (81 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/tasks/run_flake8.py:78:80: E501 line too long (81 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/tasks/run_flake8.py:80:80: E501 line too long (90 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/tasks/run_flake8.py:82:80: E501 line too long (90 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/tasks/run_flake8.py:84:80: E501 line too long (97 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/tasks/run_flake8.py:87:80: E501 line too long (97 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/tasks/run_jshint.py:24:80: E501 line too long (93 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/tasks/run_jshint.py:27:80: E501 line too long (99 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/tasks/run_jshint.py:29:80: E501 line too long (88 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/tasks/run_jshint.py:37:80: E501 line too long (101 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/tasks/run_pep8.py:32:80: E501 line too long (82 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/tasks/run_pep8.py:41:80: E501 line too long (104 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/tasks/run_pep8.py:50:80: E501 line too long (93 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/tasks/run_pep8.py:53:80: E501 line too long (102 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/tasks/run_pep8.py:60:80: E501 line too long (81 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/tasks/run_pep8.py:61:80: E501 line too long (81 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/tasks/run_pep8.py:63:80: E501 line too long (90 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/tasks/run_pep8.py:65:80: E501 line too long (90 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/tasks/run_pep8.py:67:80: E501 line too long (97 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/tasks/run_pyflakes.py:32:80: E501 line too long (82 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/tasks/run_pyflakes.py:40:80: E501 line too long (91 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/tasks/run_pyflakes.py:42:80: E501 line too long (117 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/tasks/run_pyflakes.py:47:80: E501 line too long (83 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/tasks/run_pylint.py:47:80: E501 line too long (80 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/tasks/run_pylint.py:58:80: E501 line too long (81 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/tasks/run_scsslint.py:24:80: E501 line too long (96 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/tasks/run_scsslint.py:27:80: E501 line too long (99 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/tasks/run_scsslint.py:29:80: E501 line too long (91 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/tasks/run_scsslint.py:42:80: E501 line too long (98 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/tasks/run_sloccount.py:8:80: E501 line too long (83 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/tasks/run_sloccount.py:9:80: E501 line too long (83 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/tasks/run_sloccount.py:16:80: E501 line too long (101 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/tasks/with_coverage.py:38:80: E501 line too long (110 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/tasks/with_coverage.py:43:80: E501 line too long (109 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/tasks/with_coverage.py:49:80: E501 line too long (97 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/tasks/with_coverage.py:52:80: E501 line too long (81 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/tasks/with_coverage.py:62:80: E501 line too long (86 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/tasks/with_coverage.py:63:80: E501 line too long (83 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/tasks/with_coverage.py:70:80: E501 line too long (83 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/tasks/with_coverage.py:72:80: E501 line too long (81 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/tasks/with_coverage.py:73:80: E501 line too long (95 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/management/commands/jenkins.py:17:80: E501 line too long (87 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/management/commands/jenkins.py:39:80: E501 line too long (95 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/management/commands/jenkins.py:64:80: E501 line too long (97 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/management/commands/jenkins.py:80:80: E501 line too long (81 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/management/commands/jenkins.py:87:80: E501 line too long (103 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/management/commands/jenkins.py:95:80: E501 line too long (81 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/management/commands/jenkins.py:118:80: E501 line too long (86 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/management/commands/jenkins.py:119:80: E501 line too long (86 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/management/commands/jenkins.py:134:80: E501 line too long (81 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/management/commands/jenkins.py:184:80: E501 line too long (86 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/management/commands/jenkins.py:192:80: E501 line too long (81 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/management/commands/jenkins.py:194:80: E501 line too long (82 > 79 characters)
+../../usr/local/lib/python2.7/dist-packages/django_jenkins/management/commands/jenkins.py:215:80: E501 line too long (82 > 79 characters)
+apps/anagrams/anagrams.py:4:1: E302 expected 2 blank lines, found 1
+apps/anagrams/anagrams.py:9:1: W191 indentation contains tabs
+apps/anagrams/anagrams.py:9:1: E101 indentation contains mixed spaces and tabs
+apps/anagrams/anagrams.py:10:1: W191 indentation contains tabs
+apps/anagrams/anagrams.py:12:1: W191 indentation contains tabs
+apps/anagrams/anagrams.py:13:1: W191 indentation contains tabs
+apps/anagrams/anagrams.py:14:1: W191 indentation contains tabs
+apps/anagrams/anagrams.py:14:2: E101 indentation contains mixed spaces and tabs
+apps/anagrams/anagrams.py:15:1: W191 indentation contains tabs
+apps/anagrams/anagrams.py:15:2: E101 indentation contains mixed spaces and tabs
+apps/anagrams/anagrams.py:16:1: W191 indentation contains tabs
+apps/anagrams/anagrams.py:17:1: W191 indentation contains tabs
+apps/anagrams/anagrams.py:17:2: E101 indentation contains mixed spaces and tabs
+apps/anagrams/anagrams.py:18:1: E101 indentation contains mixed spaces and tabs
+apps/anagrams/anagrams.py:20:1: E302 expected 2 blank lines, found 1
+apps/anagrams/anagrams.py:26:1: E302 expected 2 blank lines, found 1
+apps/anagrams/models.py:4:1: E302 expected 2 blank lines, found 1
+apps/anagrams/models.py:8:1: E302 expected 2 blank lines, found 1
+apps/anagrams/views.py:7:1: E302 expected 2 blank lines, found 1
+apps/anagrams/views.py:23:1: E302 expected 2 blank lines, found 1
+apps/anagrams/views.py:29:1: E302 expected 2 blank lines, found 1
+apps/anagrams/views.py:36:1: E302 expected 2 blank lines, found 1
+apps/anagrams/views.py:40:5: E265 block comment should start with '# '
+apps/anagrams/views.py:51:80: E501 line too long (82 > 79 characters)
+apps/anagrams/migrations/0001_initial.py:16:80: E501 line too long (114 > 79 characters)
+apps/anagrams/migrations/0001_initial.py:23:80: E501 line too long (114 > 79 characters)
+apps/anagrams/anagrams.py:4:1: E302 expected 2 blank lines, found 1
+apps/anagrams/anagrams.py:9:1: W191 indentation contains tabs
+apps/anagrams/anagrams.py:9:1: E101 indentation contains mixed spaces and tabs
+apps/anagrams/anagrams.py:10:1: W191 indentation contains tabs
+apps/anagrams/anagrams.py:12:1: W191 indentation contains tabs
+apps/anagrams/anagrams.py:13:1: W191 indentation contains tabs
+apps/anagrams/anagrams.py:14:1: W191 indentation contains tabs
+apps/anagrams/anagrams.py:14:2: E101 indentation contains mixed spaces and tabs
+apps/anagrams/anagrams.py:15:1: W191 indentation contains tabs
+apps/anagrams/anagrams.py:15:2: E101 indentation contains mixed spaces and tabs
+apps/anagrams/anagrams.py:16:1: W191 indentation contains tabs
+apps/anagrams/anagrams.py:17:1: W191 indentation contains tabs
+apps/anagrams/anagrams.py:17:2: E101 indentation contains mixed spaces and tabs
+apps/anagrams/anagrams.py:18:1: E101 indentation contains mixed spaces and tabs
+apps/anagrams/anagrams.py:20:1: E302 expected 2 blank lines, found 1
+apps/anagrams/anagrams.py:26:1: E302 expected 2 blank lines, found 1
+apps/anagrams/models.py:4:1: E302 expected 2 blank lines, found 1
+apps/anagrams/models.py:8:1: E302 expected 2 blank lines, found 1
+apps/anagrams/views.py:7:1: E302 expected 2 blank lines, found 1
+apps/anagrams/views.py:23:1: E302 expected 2 blank lines, found 1
+apps/anagrams/views.py:29:1: E302 expected 2 blank lines, found 1
+apps/anagrams/views.py:36:1: E302 expected 2 blank lines, found 1
+apps/anagrams/views.py:40:5: E265 block comment should start with '# '
+apps/anagrams/views.py:51:80: E501 line too long (82 > 79 characters)
+apps/anagrams/migrations/0001_initial.py:16:80: E501 line too long (114 > 79 characters)
+apps/anagrams/migrations/0001_initial.py:23:80: E501 line too long (114 > 79 characters)
