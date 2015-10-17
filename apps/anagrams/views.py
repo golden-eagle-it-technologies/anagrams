@@ -1,5 +1,6 @@
 #!/bin/python
 from django.shortcuts import render
+import os
 def build_dict(path):
     # Load in word file and sort each line.
     alpha = {}
@@ -31,7 +32,11 @@ def anagram(alpha, line):
 
 def home(request):
     # Load our dictionary and use it.
-    alpha = build_dict(r'dictionary.txt')
+    base=os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+    dict=base+"/dictionary.txt"
+    print dict
+#    alpha = build_dict(r'dictionary.txt')
+    alpha = build_dict(dict)
 
     #word = raw_input("please input your word : ")
     word = 'NONE'
