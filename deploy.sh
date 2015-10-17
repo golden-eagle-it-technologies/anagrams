@@ -1,6 +1,6 @@
 #!/bin/bash
 LOGFILE='logs/deployment.log'
-BACKUP_FILENAME="/var/www/anagrams_$( date '+%Y-%m-%d_%H-%M-%S' ).tar.gz"
+BACKUP_FILENAME="/var/www/anagrams_backup/anagrams_$( date '+%Y-%m-%d_%H-%M-%S' ).tar.gz"
 RUNNING_DIR=`pwd`
 DEPLOYMENT_DIR='/var/www/anagrams/'
 
