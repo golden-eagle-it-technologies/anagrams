@@ -1,9 +1,5 @@
 #!/bin/python
 from django.shortcuts import render
-
-# Create your views here.
-# Source came from http://www.dotnetperls.com/anagram-python
-
 def build_dict(path):
     # Load in word file and sort each line.
     alpha = {}
@@ -35,7 +31,7 @@ def anagram(alpha, line):
 
 def home(request):
     # Load our dictionary and use it.
-    alpha = build_dict(r"/root/anagrams/apps/anagrams/dictionary.txt")
+    alpha = build_dict(r'dictionary.txt')
 
     #word = raw_input("please input your word : ")
     word = 'NONE'
