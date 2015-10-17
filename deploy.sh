@@ -1,21 +1,25 @@
 #!/bin/bash
 LOGFILE='logs/deployment.log'
+BACKUP_FILENAME="/var/www/anagrams_$( date '+%Y-%m-%d_%H-%M-%S' ).tar.gz"
+RUNNING_DIR=`pwd`
+DEPLOYMENT_DIR='/var/www/anagrams/'
+
+echo "-----------------------------------------------------" >> $LOGFILE
 echo "$(date) -- automatic deployment from jenkins started." >> $LOGFILE
 find ./ -name '*.pyc'
 echo "$(date) -- pyc files has benn removed from built project." >> $LOGFILE
 find ./ -name '*.pyc' -delete
 
-FILENAME='/var/www/anagrams_$( date '+%Y-%m-%d_%H-%M-%S' ).tar.gz'
-
-tar -czf $FILENAME /var/www/anagrams 1>&2 >> $LOGFILE
-echo '$(date) -- backup file $(FILENAME) created.' >> $LOGFILE
+tar -Pczf $BACKUP_FILENAME /var/www/anagrams
+echo "$(date) -- backup file $BACKUP_FILENAME created." >> $LOGFILE
 shopt -s extglob
 
-cd /var/www/anagrams
+cd $DEPLOYMENT_DIR
 
-rm -r !(db.sqlite3|dictionary.txt) 1>&2 >> $LOGFILE
-echo '$(date) -- /var/www/anagrams/ folder has been cleared.' >> $LOGFILE
-cd /root/anagrams_last
+rm -r !(db.sqlite3|dictionary.txt)
+cd $RUNNING_DIR
+echo "$(date) -- $DEPLOYMENT_DIR folder has been cleared." >> $LOGFILE
 
 cp -r !(db.sqlite3|dictionary.txt) /var/www/anagrams/
 shopt -u extglob
+echo "$(date) -- $DEPLOYMENT_DIR populated with new files." >> $LOGFILE
