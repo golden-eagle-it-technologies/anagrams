@@ -7,11 +7,7 @@
 #TODOs
 - have word stats work in apps/anagrams
 - have word suggestions work
-- jenkins on push trigger
 - sample test units
 - adding new words to dictionary feature
-- load balancinf on server
-- draw the architecture of the system
+- load balancing on server
 - presentations
-
-
