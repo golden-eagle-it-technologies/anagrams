@@ -9,9 +9,9 @@ $cp git-jenkins-trigger.py ./git/hooks/
 - jenkins
 
 #TODOs
+- Test Test Test
 - have word stats work in apps/anagrams
 - have word suggestions work
-- sample test units
 - adding new words to dictionary feature
 - load balancing on server
-- presentations
+- presentations completion
