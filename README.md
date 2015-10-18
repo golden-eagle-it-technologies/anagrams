@@ -1,6 +1,6 @@
 #hook trigger
 just try:
-$cp git-jenkins-trigger.py ./git/hooks/
+$cp hooks/git-jenkins-trigger.py ./git/hooks/pre-push
 
 #References
 - http://www.dotnetperls.com/anagram-python
@@ -9,6 +9,7 @@ $cp git-jenkins-trigger.py ./git/hooks/
 - jenkins
 
 #TODOs
+- Hooks
 - Test Test Test
 - have word stats work in apps/anagrams
 - have word suggestions work
