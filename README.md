@@ -15,6 +15,3 @@ $cp git-jenkins-trigger.py ./git/hooks/
 - adding new words to dictionary feature
 - load balancing on server
 - presentations completion
-test
-
-test
