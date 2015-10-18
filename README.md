@@ -16,4 +16,6 @@ $cp git-jenkins-trigger.py ./git/hooks/
 - load balancing on server
 - presentations completion
 
+hook
+
 another test
