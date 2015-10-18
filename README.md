@@ -1,3 +1,7 @@
+#hook trigger
+just try:
+$cp git-jenkins-trigger.py ./git/hooks/
+
 #References
 - http://www.dotnetperls.com/anagram-python
 - https://docs.djangoproject.com/
