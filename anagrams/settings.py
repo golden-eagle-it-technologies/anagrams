@@ -73,12 +73,23 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'anagrams.wsgi.application'
 
+# Jenkins app
 JENKINS_TASKS = (
     'django_jenkins.tasks.run_pep8',
     'django_jenkins.tasks.run_pyflakes',
-#    'django_jenkins.tasks.run_jslint',
-#    'django_jenkins.tasks.run_csslint',    
     'django_jenkins.tasks.run_sloccount'
+)
+
+PROJECT_APPS = (
+    'django.contrib.admin',
+    'django.contrib.auth',
+    'django.contrib.contenttypes',
+    'django.contrib.sessions',
+    'django.contrib.messages',
+    'django.contrib.staticfiles',
+    'django_jenkins',
+    'apps',
+    'apps.anagrams',
 )
 
 # Database
