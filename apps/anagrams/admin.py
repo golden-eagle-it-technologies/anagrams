@@ -1,8 +1,9 @@
 from django.contrib import admin
-
-# Register your models here.
 from models import WordAnagrams,Suggestions
 
+class WordAnagramsAdmin(admin.ModelAdmin):
+    list_display = ('word', 'tries')
+    ordering = ("-tries", )
 
-admin.site.register(WordAnagrams)
+admin.site.register(WordAnagrams, WordAnagramsAdmin)
 admin.site.register(Suggestions)
