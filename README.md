@@ -12,6 +12,7 @@ $cp git-hooks/pre-push .git/hooks/pre-push
 - in coverage 4.0 method _harvest_data() has been renamed to get_date()
 - jenkins sometimes crashes and all plugins installed and some projects data will be removed
 - django and git did not work in mac OS x or windows 10 - Research needed
+- sh vs ./ that's the question
 
 #TODOs
 - Some test unites for views.py
