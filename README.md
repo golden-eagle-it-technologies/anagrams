@@ -14,12 +14,13 @@ $cp git-hooks/pre-push .git/hooks/pre-push
 - django and git did not work in mac OS x or windows 10 - Research needed
 
 #TODOs
-- Test Test
-- have word stats work in apps/anagrams
-- have word suggestions work
+- Some test unites for views.py
+- have word stats work in apps/anagrams + DONE
+- have word suggestions work + DONE
 - adding new words to dictionary feature
 - form javascript check for validity - NONE or space recognition
-- load balancing on server
+- load balancing on server diagram
+- phases diagram
 - presentations completion
 
 #References
