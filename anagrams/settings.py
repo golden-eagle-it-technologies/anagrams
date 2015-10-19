@@ -82,13 +82,13 @@ JENKINS_TASKS = (
 )
 
 PROJECT_APPS = (
-    'django.contrib.admin',
-    'django.contrib.auth',
-    'django.contrib.contenttypes',
-    'django.contrib.sessions',
-    'django.contrib.messages',
-    'django.contrib.staticfiles',
-    'django_jenkins',
+#    'django.contrib.admin',
+#    'django.contrib.auth',
+#    'django.contrib.contenttypes',
+#    'django.contrib.sessions',
+#    'django.contrib.messages',
+#    'django.contrib.staticfiles',
+#    'django_jenkins',
     'apps',
     'apps.anagrams',
 )
