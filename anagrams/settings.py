@@ -82,13 +82,6 @@ JENKINS_TASKS = (
 )
 
 PROJECT_APPS = (
-#    'django.contrib.admin',
-#    'django.contrib.auth',
-#    'django.contrib.contenttypes',
-#    'django.contrib.sessions',
-#    'django.contrib.messages',
-#    'django.contrib.staticfiles',
-#    'django_jenkins',
     'apps',
     'apps.anagrams',
 )
@@ -122,3 +115,4 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/1.8/howto/static-files/
 
 STATIC_URL = '/static/'
+STATIC_ROOT = '/usr/lib/python2.7/dist-packages/django/contrib/admin/static"'
