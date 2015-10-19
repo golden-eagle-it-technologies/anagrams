@@ -31,13 +31,13 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = (
+    'django_jenkins',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'django_jenkins',
     'apps',
     'apps.anagrams',
 )
@@ -75,6 +75,7 @@ WSGI_APPLICATION = 'anagrams.wsgi.application'
 
 # Jenkins app
 JENKINS_TASKS = (
+#    'django_jenkins.tasks.with_coverage',
     'django_jenkins.tasks.run_pep8',
     'django_jenkins.tasks.run_pyflakes',
     'django_jenkins.tasks.run_sloccount'
