@@ -1,6 +1,6 @@
 #Installation
-## git clone https://github.com/mrafieee/anagrams.git
-## pip install -r requirements.txt
+$git clone https://github.com/mrafieee/anagrams.git
+$pip install -r requirements.txt
 
 #Hook trigger
 just try one of these:
