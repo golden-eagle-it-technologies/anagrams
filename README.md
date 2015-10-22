@@ -1,8 +1,10 @@
 #Installation
-$git clone https://github.com/mrafieee/anagrams.git
-$pip install -r requirements.txt
+$ sudo apt-get install git python-pip
+$ git clone https://github.com/mrafieee/anagrams.git
+$ pip install -r requirements.txt
 
 #Hook trigger
+for automatic jenkins trigger just modify one of following files and copy them
 just try one of these:
 $cp git-hooks/git-jenkins-trigger.py ./git/hooks/pre-push
 $cp git-hooks/pre-push .git/hooks/pre-push
@@ -20,9 +22,9 @@ $cp git-hooks/pre-push .git/hooks/pre-push
 - have word suggestions work + DONE
 - adding new words to dictionary feature
 - form javascript check for validity - NONE or space recognition
-- load balancing on server diagram
+- load balancing on server diagram + DONE
 - phases diagram
-- presentations completion
+- presentations completion 
 
 #References
 - http://www.dotnetperls.com/anagram-python
@@ -30,5 +32,3 @@ $cp git-hooks/pre-push .git/hooks/pre-push
 - https://sites.google.com/site/kmmbvnr/home/django-jenkins-tutorial
 - piwik
 - jenkins
-
-a
