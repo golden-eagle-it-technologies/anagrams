@@ -22,5 +22,5 @@ ls
 echo "$(date) -- $DEPLOYMENT_DIR folder has been cleared." >> $LOGFILE
 shopt -u extglob
 
-#cp -r apps/ anagrams/ manage.py /var/www/anagrams/
+cp -r apps/ anagrams/ manage.py /var/www/anagrams/
 echo "$(date) -- $DEPLOYMENT_DIR populated with new files." >> $LOGFILE
