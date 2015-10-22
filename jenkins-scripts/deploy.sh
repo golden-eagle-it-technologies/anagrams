@@ -18,10 +18,9 @@ cd $DEPLOYMENT_DIR
 
 rm -r !(db.sqlite3|dictionary.txt)
 cd $RUNNING_DIR
+ls
 echo "$(date) -- $DEPLOYMENT_DIR folder has been cleared." >> $LOGFILE
 shopt -u extglob
-pwd
-ls -al /var/www/
-cp -r apps/ anagrams/ manage.py /var/www/anagrams/
+
+#cp -r apps/ anagrams/ manage.py /var/www/anagrams/
 echo "$(date) -- $DEPLOYMENT_DIR populated with new files." >> $LOGFILE
-ls -al /var/www/
