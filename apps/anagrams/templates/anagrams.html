@@ -66,9 +66,17 @@
 
 </div>
 </div>
+
 {% if word == "" %}
-	<div class="alert">You have to try a word to find an anagrams!</div>
+<div class="alert alert-danger" role="alert">
+  <span class="glyphicon glyphicon-exclamation-sign" aria-hidden="true"></span>
+  <span class="sr-only">Error:</span>
+You have to try a word to find an anagrams!
+</div>
+
 {% endif %}
+
+
 {% if word != "NONE" and word != "" %}
 <div class=row>
 <div class="col-md-6">
