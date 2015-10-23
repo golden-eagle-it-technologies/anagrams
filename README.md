@@ -32,5 +32,3 @@ $cp git-hooks/pre-push .git/hooks/pre-push
 - https://sites.google.com/site/kmmbvnr/home/django-jenkins-tutorial
 - piwik
 - jenkins
-
-a
