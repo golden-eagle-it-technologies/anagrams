@@ -43,7 +43,7 @@
 
 <div class="panel panel-default">
   <!-- Default panel contents -->
-  <div class="panel-heading"><h1>{% if word == "NONE" %}Welcome to {% endif %}Anagrams Finder</h1></div>
+  <div class="panel-heading"><h1>{% if word == "NONE" %}Hello - Welcome to {% endif %}Hwllo World! - Anagrams Finder</h1></div>
   <div class="panel-body">
     <p>An anagram is a type of word play, the result of rearranging the letters of a word or phrase to produce a new word or phrase, using all the original letters exactly once; for example, the word anagram can be rearranged into nag-a-ram. Someone who creates anagrams may be called an "anagrammatist".</p>
   </div>
@@ -86,7 +86,7 @@ You have to try a word to find an anagrams!
   <!-- Table -->
 <table class="table table-striped">
 <tr><th width=20%>#</th><th width=80%>Anagram Words</th></tr>
-{% for item in anagrams%}
+{% for item in anagrams %}
 <tr><td>{{ forloop.counter }}</td><td>{{ item }}</td></tr>
 {% endfor %}
 </table>
